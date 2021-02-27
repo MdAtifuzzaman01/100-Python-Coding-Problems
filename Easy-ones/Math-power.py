@@ -1,4 +1,4 @@
-"""Here the problem is to take two numbers from the users.
+""" Here the problem is to take two numbers from the users.
 Calculate the result of second number power of the first number.
 """
 # First solution:
